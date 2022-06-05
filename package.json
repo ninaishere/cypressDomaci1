@@ -1,0 +1,22 @@
+{
+  "name": "cypressdomaci1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": ".node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninaishere/cypressDomaci1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninaishere/cypressDomaci1/issues"
+  },
+  "homepage": "https://github.com/ninaishere/cypressDomaci1#readme",
+  "devDependencies": {
+    "cypress": "^10.0.2"
+  }
+}
